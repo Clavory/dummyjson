@@ -1,0 +1,11 @@
+{
+    "name": "user/dummyjson",
+    "autoload": {
+        "psr-4": {
+            "User\\Dummyjson\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
